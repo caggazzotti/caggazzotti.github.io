@@ -27,7 +27,7 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_M
 
 [Can authorship attribution models distinguish speakers in speech transcripts?](https://arxiv.org/abs/2311.07564) \\
 Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
-Forthcoming in _Transactions of the Association for Computational Linguistics_ (2024) [[code]](https://github.com/caggazzotti/speech-attribution). To be presented at ACL 2024.
+_Transactions of the Association for Computational Linguistics_ (forthcoming 2024) [[code]](https://github.com/caggazzotti/speech-attribution). To be presented at ACL 2024.
 
 [Can authorship representation learning capture stylistic features?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00610/118299/) \\
 Andrew Wang\*, Cristina Aggazzotti\*, Rebecca Kotula, Rafael Rivera Soto, Marcus Bishop, and Nicholas Andrews \\
@@ -43,11 +43,11 @@ _Doctoral dissertation_, Harvard University (2019).
 
 **Forensic Linguistics**
 
-Testing authorship analysis on spoken language transcripts: Establishing a first benchmark \\
+[Testing authorship analysis on spoken language transcripts: Establishing a first benchmark](/files/ILLA2023_Slides_Website.pdf) \\
 Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
 _4th Focus Conference on Forensic Linguistics of the International Language and Law Association (ILLA)_ (2023).
 
-Authorship attribution across right-wing manifestos \\
+[Authorship attribution across right-wing manifestos](/files/IAFLL2023_Slides_Website.pdf) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
 _16th Biennial Conference of the International Association for Forensic and Legal Linguistics (IAFLL)_ (2023).
 
