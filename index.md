@@ -68,7 +68,7 @@ Cristina Aggazzotti \\
 _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 27, p. 370 (2021).  
 
 [Communication strategies to minimize bias and strengthen scientific foundations in forensic science](https://www.aafs.org/sites/default/files/media/documents/2017_Proceedings.pdf) \\
-Cristina Aggazzotti, Katherine Ramsland, Carole E. Chaski, Elizabeth Allyn Smith, Roderick T. Kennedy \\
+Cristina Aggazzotti, Katherine Ramsland, Carole E. Chaski, Elizabeth Allyn Smith, and Roderick T. Kennedy \\
 _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 23, p. 38 (2017).
 
 [Confirmation bias and metalinguistic awareness](https://www.aafs.org/sites/default/files/media/documents/2016_Proceedings.pdf) \\
