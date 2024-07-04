@@ -43,11 +43,11 @@ _Doctoral dissertation_, Harvard University (2019).
 
 **Forensic Linguistics**
 
-[Testing authorship analysis on spoken language transcripts: Establishing a first benchmark] \\
+Testing authorship analysis on spoken language transcripts: Establishing a first benchmark \\
 Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
 _4th Focus Conference on Forensic Linguistics of the International Language and Law Association (ILLA)_ (2023).
 
-[Authorship attribution across right-wing manifestos] \\
+Authorship attribution across right-wing manifestos \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
 _16th Biennial Conference of the International Association for Forensic and Legal Linguistics (IAFLL)_ (2023).
 
