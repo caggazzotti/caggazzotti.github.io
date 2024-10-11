@@ -4,9 +4,9 @@ layout: default
 
 ## Current research
 
-As a computer science postdoctoral fellow at the Human Language Technology Center of Excellence at Johns Hopkins University, I am advised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and collaborate with [Elizabeth Allyn Smith](https://eallynsmith.wordpress.com/) (Université du Québec `a Montréal). Our recent work created a new benchmark and established the state of the art for speaker attribution by applying authorship attribution methods to conversational speech transcripts ([paper](https://arxiv.org/abs/2311.07564), [code](https://github.com/caggazzotti/speech-attribution)). 
+As a Research Associate at the Human Language Technology Center of Excellence at Johns Hopkins University, I am supervised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and collaborate with [Elizabeth Allyn Smith](https://eallynsmith.wordpress.com/) (Université du Québec `a Montréal). Our recent work created a new benchmark and established the state of the art for speaker attribution by applying authorship attribution methods to conversational speech transcripts ([paper](https://arxiv.org/abs/2311.07564), [code](https://github.com/caggazzotti/speech-attribution)). 
 
-I am specifically interested in robust and explainable attribution models that work well in the challenging forensic linguistics setting, which involves minimal and often noisy data and requires that all models used to analyze evidence abide by the [Daubert standard](https://www.law.cornell.edu/wex/daubert_standard).
+I am specifically interested in robust and explainable attribution models that work well in the challenging forensic linguistics setting, which involves minimal and often noisy data and requires higher standards for accuracy given the high-stakes consequences.
 
 -------
 
@@ -27,7 +27,7 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_M
 
 [Can authorship attribution models distinguish speakers in speech transcripts?]([https://arxiv.org/abs/2311.07564](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00678/123650/Can-Authorship-Attribution-Models-Distinguish)) \\
 Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
-_Transactions of the Association for Computational Linguistics_ 12, pp. 875–891 (2024) [[code]](https://github.com/caggazzotti/speech-attribution). To be presented at ACL 2024.
+_Transactions of the Association for Computational Linguistics_ 12, pp. 875–891 (2024) [[code]](https://github.com/caggazzotti/speech-attribution). Oral presentation at ACL 2024.
 
 [Can authorship representation learning capture stylistic features?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00610/118299/) \\
 Andrew Wang\*, Cristina Aggazzotti\*, Rebecca Kotula, Rafael Rivera Soto, Marcus Bishop, and Nicholas Andrews \\
