@@ -4,13 +4,13 @@ layout: default
 
 ## Current research
 
-As a Research Associate at the Human Language Technology Center of Excellence at Johns Hopkins University, I am supervised by [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) and collaborate with [Elizabeth Allyn Smith](https://eallynsmith.wordpress.com/) (Université du Québec `a Montréal). Our recent work created a new benchmark and established the state of the art for speaker attribution by applying authorship attribution methods to conversational speech transcripts ([paper](https://arxiv.org/abs/2311.07564), [code](https://github.com/caggazzotti/speech-attribution)). 
-
-I am specifically interested in robust and explainable attribution models that work well in the challenging forensic linguistics setting, which involves minimal and often noisy data and requires higher standards for accuracy given the high-stakes consequences.
+As a Research Associate at the Human Language Technology Center of Excellence at Johns Hopkins University, I develop methods for authorship attribution (who wrote something) and speaker attribution from speech transcripts (who said something), both of which examine how someone's use of language can reveal (or protect) their identity. I am specifically interested in robust and explainable attribution models that work well in the challenging forensic linguistics setting, which involves minimal and often noisy data and requires higher standards for accuracy given the high-stakes consequences.
 
 -------
 
 ## Background
+During my postdocs working with [Nicholas Andrews](https://www.cs.jhu.edu/~noa/) at JHU and [Elizabeth Allyn Smith](https://eallynsmith.wordpress.com/) at the Université du Québec `a Montréal, we created a new benchmark and established the state of the art for speaker attribution by applying authorship attribution methods to conversational speech transcripts ([paper](https://arxiv.org/abs/2311.07564), [code](https://github.com/caggazzotti/speech-attribution)).  
+
 I received my Ph.D. in Linguistics from Harvard University, advised by [Stuart Shieber](https://stuartshieber.com/). My [dissertation](https://dash.harvard.edu/handle/1/42106941) created the first analysis of reciprocals in the formalism of synchronous tree adjoining grammar (STAG), unified this analysis with a parallel one of reflexives, and extended the formalism for the first time to encompass morphology.
 
 I did an M.S. in Cognitive and Decision Sciences at University College London, advised by [David Lagnado](https://causalcognitionlab.com/dave/). My master's dissertation combined script theory and causal Bayesian networks to create a formalized crime script for cash-in-transit robbery that could ultimately be used by the police to identify effective prevention strategies.
@@ -71,11 +71,11 @@ _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vo
 Cristina Aggazzotti, Katherine Ramsland, Carole E. Chaski, Elizabeth Allyn Smith, and Roderick T. Kennedy \\
 _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 23, p. 38 (2017).
 
+**Cognitive Science**
+
 [Confirmation bias and metalinguistic awareness](https://www.aafs.org/sites/default/files/media/documents/2016_Proceedings.pdf) \\
 Carole E. Chaski, Elizabeth Allyn Smith, and Cristina Aggazzotti  \\
 _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 22, p. 902 (2016).
-
-**Cognitive Science**
 
 The use of causal Bayesian networks to formalize crime scripts, with an application to cash-in-transit robbery \\
 Cristina Aggazzotti \\
