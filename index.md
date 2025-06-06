@@ -23,9 +23,9 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_M
 
 ## Publications and Presentations
 
-**Computational Linguistics**
+**Computational Linguistics** 
 
-[Can authorship attribution models distinguish speakers in speech transcripts?]([https://arxiv.org/abs/2311.07564](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00678/123650/Can-Authorship-Attribution-Models-Distinguish)) \\
+[Can authorship attribution models distinguish speakers in speech transcripts?](https://arxiv.org/abs/2311.07564) \\
 Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
 _Transactions of the Association for Computational Linguistics_ 12, pp. 875–891 (2024) [[code]](https://github.com/caggazzotti/speech-attribution). Oral presentation at ACL 2024.
 
