@@ -25,6 +25,9 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_M
 
 **Computational Linguistics** 
 
+[The Impact of Automatic Speech Transcription on Speaker Attribution](https://arxiv.org/abs/2507.08660) \\
+Cristina Aggazzotti, Matthew Wiesner, Elizabeth Allyn Smith, and Nicholas Andrews \\
+
 [Can authorship attribution models distinguish speakers in speech transcripts?](https://arxiv.org/abs/2311.07564) \\
 Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
 _Transactions of the Association for Computational Linguistics_ 12, pp. 875–891 (2024) [[code]](https://github.com/caggazzotti/speech-attribution). Oral presentation at ACL 2024.
