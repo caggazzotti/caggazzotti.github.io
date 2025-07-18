@@ -25,7 +25,7 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_M
 
 **Computational Linguistics** 
 
-[The Impact of Automatic Speech Transcription on Speaker Attribution](https://arxiv.org/abs/2507.08660) \\
+[The impact of automatic speech transcription on speaker attribution](https://arxiv.org/abs/2507.08660) \\
 Cristina Aggazzotti, Matthew Wiesner, Elizabeth Allyn Smith, and Nicholas Andrews \\
 
 [Can authorship attribution models distinguish speakers in speech transcripts?](https://arxiv.org/abs/2311.07564) \\
