@@ -52,7 +52,7 @@ Cristina Aggazzotti and Elizabeth Allyn Smith \\
 _5th Focus Conference on Forensic Linguistics of the International Language and Law Association (ILLA)_ (2025).
 
 Speaker attribution of speech transcripts: A stylometric approach \\
-Cristina Aggazzotti, Elizabeth Allyn Smith, and Nicholas Andrews \\ 
+Cristina Aggazzotti, Elizabeth Allyn Smith, and Nicholas Andrews \\
 _17th Biennial Conference of the International Association for Forensic and Legal Linguistics (IAFLL)_ (2025).
 
 [Testing authorship analysis on spoken language transcripts: Establishing a first benchmark](/files/ILLA2023_Slides_Website.pdf) \\
