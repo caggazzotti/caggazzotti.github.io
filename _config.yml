@@ -21,7 +21,7 @@
 title: Cristina Aggazzotti
 logo: files/Aggazzotti.png
 description: #>- # this means to ignore newlines until "baseurl:"
-  Associate Research Scientist @ JHU HLTCOE 
+  Assistant Research Scientist @ JHU HLTCOE 
 #baseurl: "" # the subpath of your site, e.g. /blog; #doesn't work on GitHub Pages acc. to YouTube vid
 url: "caggazzotti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
