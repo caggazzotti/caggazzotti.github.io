@@ -17,7 +17,7 @@ I did an M.S. in Cognitive and Decision Sciences at University College London, a
 
 I also hold a B.A. in Applied and Computational Mathematics and a B.A. in Linguistics from the University of Southern California. Fight on!
 
-Interested in a little bit of everything, I love [traveling](/files/My_Travels_March2024.png) the world by sailboat/train/plane/bus/motorcycle/car, connecting with people, learning new skills, and working out. One of my favorite trips was sailing across the Pacific Ocean on a 34-foot sailboat with two other women ([S/V Islander](https://www.islandercirclestheworld.com/about)).
+Interested in a little bit of everything, I love [traveling](/files/My_Travels_10-2025.png) the world by sailboat/train/plane/bus/motorcycle/car, connecting with people, learning new skills, and working out. One of my favorite trips was sailing across the Pacific Ocean on a 34-foot sailboat with two other women ([S/V Islander](https://www.islandercirclestheworld.com/about)).
 
 -------
 
