@@ -24,6 +24,7 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 ## Publications and Presentations
 
 **Computational Linguistics** 
+
 [Content anonymization for privacy in long-form audio]() \\
 Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews \\
 
