@@ -50,6 +50,9 @@ _Doctoral dissertation_, Harvard University (2019).
 
 **Forensic Linguistics**
 
+[A stylometric analysis of speaker attribution from speech transcripts](https://arxiv.org/abs/2512.13667) \\
+Cristina Aggazzotti and Elizabeth Allyn Smith 
+
 The relationship between linguistic accommodation and speaker attribution \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
 _5th Focus Conference on Forensic Linguistics of the International Language and Law Association (ILLA)_ (2025).
