@@ -99,6 +99,6 @@ _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vo
 Carole E. Chaski, Elizabeth Allyn Smith, and Cristina Aggazzotti  \\
 _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 22, p. 902 (2016).
 
-The use of causal Bayesian networks to formalize crime scripts, with an application to cash-in-transit robbery \\
+[The use of causal Bayesian networks to formalize crime scripts, with an application to cash-in-transit robbery](/files/Dissertation_final.pdf) \\
 Cristina Aggazzotti \\
 _Master's dissertation_, University College London (2013).
