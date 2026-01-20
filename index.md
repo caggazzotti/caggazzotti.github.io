@@ -28,9 +28,9 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 [Content anonymization for privacy in long-form audio](https://arxiv.org/abs/2510.12780v1) \\
 Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews 
 
-[The impact of automatic speech transcription on speaker attribution](https://arxiv.org/abs/2507.08660) \\
+[The impact of automatic speech transcription on speaker attribution](https://doi.org/10.1162/TACL.a.54) \\
 Cristina Aggazzotti, Matthew Wiesner, Elizabeth Allyn Smith, and Nicholas Andrews \\
-_Transactions of the Association for Computational Linguistics_ (in press)
+_Transactions of the Association for Computational Linguistics_ 13, pp. 1578-1596 (2025). Oral presentation at EMNLP 2025.
 
 [Can authorship attribution models distinguish speakers in speech transcripts?](https://arxiv.org/abs/2311.07564) \\
 Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
