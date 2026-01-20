@@ -26,7 +26,8 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 **Computational Linguistics** 
 
 [Content anonymization for privacy in long-form audio](https://arxiv.org/abs/2510.12780v1) \\
-Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews 
+Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews \\
+Accepted to ICASSP 2026.  
 
 [The impact of automatic speech transcription on speaker attribution](https://doi.org/10.1162/TACL.a.54) \\
 Cristina Aggazzotti, Matthew Wiesner, Elizabeth Allyn Smith, and Nicholas Andrews \\
