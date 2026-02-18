@@ -25,6 +25,10 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 
 **Computational Linguistics** 
 
+[A Survey on Representing Linguistic Style: Challenges and Opportunities](/files/Style_Survey_website.pdf) \\
+Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto, Dong Nguyen \\
+Under review.
+
 [Content anonymization for privacy in long-form audio](https://arxiv.org/abs/2510.12780v1) \\
 Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews \\
 Accepted to ICASSP 2026.  
