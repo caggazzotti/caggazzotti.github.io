@@ -29,8 +29,8 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto, and Dong Nguyen \\
 Under review.
 
-[CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026). \\ 
-Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\ 
+[CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
+Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
 Proceedings of the Association for Computational Linguistics (2026).
 
 [Content anonymization for privacy in long-form audio](https://arxiv.org/abs/2510.12780v1) \\
