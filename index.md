@@ -33,9 +33,9 @@ Under review.
 Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
 Proceedings of the Association for Computational Linguistics (2026).
 
-[Content anonymization for privacy in long-form audio](https://arxiv.org/abs/2510.12780v1) \\
+[Content anonymization for privacy in long-form audio](https://doi.org/10.1109/ICASSP55912.2026.11461508) \\
 Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews \\
-Oral presentation at ICASSP 2026.  
+2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Oral presentation.  
 
 [The impact of automatic speech transcription on speaker attribution](https://doi.org/10.1162/TACL.a.54) \\
 Cristina Aggazzotti, Matthew Wiesner, Elizabeth Allyn Smith, and Nicholas Andrews \\
