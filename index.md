@@ -4,7 +4,7 @@ layout: default
 
 ## Current research
 
-As a research scientist at the Human Language Technology Center of Excellence at Johns Hopkins University, I develop methods for authorship attribution (who wrote something) and speaker attribution from speech transcripts (who said something), both of which examine how someone's use of language can reveal (or protect) their identity. I am specifically interested in robust and explainable attribution models that work well in the challenging forensic linguistics setting, which involves minimal and often noisy data and requires higher standards for accuracy given the high-stakes consequences.
+As a research scientist at the Human Language Technology Center of Excellence at Johns Hopkins University, I develop methods for authorship attribution (who wrote something), speaker attribution from speech transcripts (who said something), and speaker anonymization (privacy), all of which examine how someone's language can reveal or protect their identity. I am specifically interested in robust and explainable attribution models that work well in the challenging forensic linguistics setting, which involves minimal and often noisy data and requires higher standards for accuracy given the high-stakes consequences. I also work on machine text detection in academic settings, such as student essays and peer reviews, to determine the extent and nature of AI use in human writing.
 
 -------
 
