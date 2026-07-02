@@ -8,7 +8,7 @@ As a research scientist at the Human Language Technology Center of Excellence at
 
 I am specifically interested in robust and explainable attribution and anonymization models that work well in the challenging forensic linguistics setting, which involves minimal and often noisy data and requires higher standards for accuracy given the high-stakes consequences. 
 
-I also work on **machine text detection** in academic settings, such as student essays and peer reviews, to determine the extent and nature of AI use in human writing.
+I also work on **machine text detection** in academic settings, such as student essays and peer reviews, to determine the extent and nature of AI use in human writing. 
 
 -------
 
