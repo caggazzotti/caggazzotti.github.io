@@ -29,7 +29,7 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 
 **Computational Linguistics** 
 
-[STEB: Style Text Embedding Benchmark](https://doi.org/10.48550/arXiv.2606.31741) \\ 
+[STEB: Style Text Embedding Benchmark](https://doi.org/10.48550/arXiv.2606.31741) \\
 Rafael Rivera Soto, Anna Wegmann, and Cristina Aggazzotti \\
 Under review (2026).
 
