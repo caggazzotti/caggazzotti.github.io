@@ -25,9 +25,13 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 
 **Computational Linguistics** 
 
+[STEB: Style Text Embedding Benchmark](https://doi.org/10.48550/arXiv.2606.31741) \\ 
+Rafael Rivera Soto, Anna Wegmann, and Cristina Aggazzotti \\
+Under review (2026).
+
 [A survey on representing linguistic style: Challenges and opportunities](/files/Style_Survey_website.pdf) \\
 Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto, and Dong Nguyen \\
-Under review.
+Under review (2026).
 
 [CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
 Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
