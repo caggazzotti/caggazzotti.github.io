@@ -37,7 +37,7 @@ Under review (2026).
 Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews \\
 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Oral presentation. 
 
-**Authorship/Speaker Attribution and Style**
+### Authorship/Speaker Attribution and Style
 
 [STEB: Style Text Embedding Benchmark](https://doi.org/10.48550/arXiv.2606.31741) \\
 Rafael Rivera Soto, Anna Wegmann, and Cristina Aggazzotti \\
@@ -47,33 +47,13 @@ Under review (2026).
 Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto, and Dong Nguyen \\
 Under review (2026).
 
-[The impact of automatic speech transcription on speaker attribution](https://doi.org/10.1162/TACL.a.54) \\
-Cristina Aggazzotti, Matthew Wiesner, Elizabeth Allyn Smith, and Nicholas Andrews \\
-_Transactions of the Association for Computational Linguistics_ 13, pp. 1578-1596 (2025). Oral presentation at EMNLP 2025.
-
-[Can authorship attribution models distinguish speakers in speech transcripts?](https://arxiv.org/abs/2311.07564) \\
-Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
-_Transactions of the Association for Computational Linguistics_ 12, pp. 875–891 (2024) [[code]](https://github.com/caggazzotti/speech-attribution). Oral presentation at ACL 2024.
-
-[Can authorship representation learning capture stylistic features?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00610/118299/) \\
-Andrew Wang\*, Cristina Aggazzotti\*, Rebecca Kotula, Rafael Rivera Soto, Marcus Bishop, and Nicholas Andrews \\
-_Transactions of the Association for Computational Linguistics_ 11, pp. 1416–1431 (2023). Oral presentation at EMNLP 2023.
-
-**Language Identification**
-
-[CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
-Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
-Proceedings of the Association for Computational Linguistics (2026). 
-
-**Forensic Linguistics**
-
-Ground Truth in Computational Forensic Linguistics: Semantic Variation and the Evaluation of Scientific Evidence \\
-Elizabeth Allyn Smith and Cristina Aggazzotti \\
-Submitted (2026).
-
 [A stylometric analysis of speaker attribution from speech transcripts](https://arxiv.org/abs/2512.13667) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
 In revision (2026).
+
+[The impact of automatic speech transcription on speaker attribution](https://doi.org/10.1162/TACL.a.54) \\
+Cristina Aggazzotti, Matthew Wiesner, Elizabeth Allyn Smith, and Nicholas Andrews \\
+_Transactions of the Association for Computational Linguistics_ 13, pp. 1578-1596 (2025). Oral presentation at EMNLP 2025.
 
 [The relationship between linguistic accommodation and speaker attribution](/files/ILLA2025_Accommodation_Slides.pdf) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
@@ -83,9 +63,13 @@ _5th Focus Conference on Forensic Linguistics of the International Language and 
 Cristina Aggazzotti, Elizabeth Allyn Smith, and Nicholas Andrews \\
 _17th Biennial Conference of the International Association for Forensic and Legal Linguistics (IAFLL)_ (2025).
 
-[Weaknesses of artificial intelligence proxies of topic for forensic linguistic applications](https://www.aafs.org/sites/default/files/media/documents/2025Proceedings_2.3.25.pdf) \\
-Cristina Aggazzotti and Elizabeth Allyn Smith \\
-_Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 31, p. 505 (2025).
+[Can authorship attribution models distinguish speakers in speech transcripts?](https://arxiv.org/abs/2311.07564) \\
+Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
+_Transactions of the Association for Computational Linguistics_ 12, pp. 875–891 (2024) [[code]](https://github.com/caggazzotti/speech-attribution). Oral presentation at ACL 2024.
+
+[Can authorship representation learning capture stylistic features?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00610/118299/) \\
+Andrew Wang\*, Cristina Aggazzotti\*, Rebecca Kotula, Rafael Rivera Soto, Marcus Bishop, and Nicholas Andrews \\
+_Transactions of the Association for Computational Linguistics_ 11, pp. 1416–1431 (2023). Oral presentation at EMNLP 2023.
 
 [Testing authorship analysis on spoken language transcripts: Establishing a first benchmark](/files/ILLA2023_Slides_Website.pdf) \\
 Cristina Aggazzotti, Nicholas Andrews, and Elizabeth Allyn Smith \\
@@ -94,6 +78,22 @@ _4th Focus Conference on Forensic Linguistics of the International Language and 
 [Authorship attribution across right-wing manifestos](/files/IAFLL2023_Slides_Website.pdf) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
 _16th Biennial Conference of the International Association for Forensic and Legal Linguistics (IAFLL)_ (2023).
+
+### Language Identification
+
+[CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
+Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
+Proceedings of the Association for Computational Linguistics (2026). 
+
+### Forensic Linguistics
+
+Ground truth in computational forensic linguistics: Semantic variation and the evaluation of scientific evidence \\
+Elizabeth Allyn Smith and Cristina Aggazzotti \\
+Submitted (2026).
+
+[Weaknesses of artificial intelligence proxies of topic for forensic linguistic applications](https://www.aafs.org/sites/default/files/media/documents/2025Proceedings_2.3.25.pdf) \\
+Cristina Aggazzotti and Elizabeth Allyn Smith \\
+_Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 31, p. 505 (2025).
 
 [Disambiguating ‘ground truth’ for forensic applications in artificial intelligence](https://www.aafs.org/sites/default/files/media/documents/2023Proceedings_FINAL-june-1-23.pdf) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
@@ -123,7 +123,7 @@ _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vo
 Cristina Aggazzotti \\
 _Master's dissertation_, University College London (2013).
 
-**Tree Adjoining Grammar**
+### Tree Adjoining Grammar
 
 [Reflexives and reciprocals in synchronous tree adjoining grammar](https://aclanthology.org/W17-6204.pdf) \\
 Cristina Aggazzotti and Stuart M. Shieber \\
