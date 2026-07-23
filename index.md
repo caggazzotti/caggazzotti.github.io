@@ -27,7 +27,7 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 
 ## Publications and Presentations
 
-###Speaker Anonymization and Privacy
+### Speaker Anonymization and Privacy
 
 [Multimodal speaker verification as a threat to speaker anonymization](https://arxiv.org/abs/2607.19636) \\
 Ashi Garg, Cristina Aggazzotti, Leibny Paola García-Perera, and Nicholas Andrews \\
