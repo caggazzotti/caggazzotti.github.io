@@ -27,7 +27,17 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 
 ## Publications and Presentations
 
-**Computational Linguistics** 
+###Speaker Anonymization and Privacy
+
+[Multimodal speaker verification as a threat to speaker anonymization](https://arxiv.org/abs/2607.19636) \\
+Ashi Garg, Cristina Aggazzotti, Leibny Paola García-Perera, and Nicholas Andrews \\
+Under review (2026).
+
+[Content anonymization for privacy in long-form audio](https://doi.org/10.1109/ICASSP55912.2026.11461508) \\
+Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews \\
+2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Oral presentation. 
+
+**Authorship/Speaker Attribution and Style**
 
 [STEB: Style Text Embedding Benchmark](https://doi.org/10.48550/arXiv.2606.31741) \\
 Rafael Rivera Soto, Anna Wegmann, and Cristina Aggazzotti \\
@@ -36,14 +46,6 @@ Under review (2026).
 [A survey on representing linguistic style: Challenges and opportunities](/files/Style_Survey_website.pdf) \\
 Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto, and Dong Nguyen \\
 Under review (2026).
-
-[CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
-Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
-Proceedings of the Association for Computational Linguistics (2026).
-
-[Content anonymization for privacy in long-form audio](https://doi.org/10.1109/ICASSP55912.2026.11461508) \\
-Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews \\
-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Oral presentation.  
 
 [The impact of automatic speech transcription on speaker attribution](https://doi.org/10.1162/TACL.a.54) \\
 Cristina Aggazzotti, Matthew Wiesner, Elizabeth Allyn Smith, and Nicholas Andrews \\
@@ -57,17 +59,15 @@ _Transactions of the Association for Computational Linguistics_ 12, pp. 875–89
 Andrew Wang\*, Cristina Aggazzotti\*, Rebecca Kotula, Rafael Rivera Soto, Marcus Bishop, and Nicholas Andrews \\
 _Transactions of the Association for Computational Linguistics_ 11, pp. 1416–1431 (2023). Oral presentation at EMNLP 2023.
 
-[Reflexives and reciprocals in synchronous tree adjoining grammar](https://aclanthology.org/W17-6204.pdf) \\
-Cristina Aggazzotti and Stuart M. Shieber \\
-_Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms_, Association for Computational Linguistics, pp. 31--42 (2017).
+**Language Identification**
 
-[A unified analysis of reflexives and reciprocals in synchronous tree adjoining grammar](https://dash.harvard.edu/handle/1/42106941) \\
-Cristina Aggazzotti \\
-_Doctoral dissertation_, Harvard University (2019).
+[CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
+Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
+Proceedings of the Association for Computational Linguistics (2026). 
 
 **Forensic Linguistics**
 
-The semiotics of ground truth: Avoiding misunderstanding in the presentation of computational forensic linguistics as scientific evidence \\
+Ground Truth in Computational Forensic Linguistics: Semantic Variation and the Evaluation of Scientific Evidence \\
 Elizabeth Allyn Smith and Cristina Aggazzotti \\
 Submitted (2026).
 
@@ -115,8 +115,6 @@ _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vo
 Cristina Aggazzotti, Katherine Ramsland, Carole E. Chaski, Elizabeth Allyn Smith, and Roderick T. Kennedy \\
 _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 23, p. 38 (2017).
 
-**Cognitive Science**
-
 [Confirmation bias and metalinguistic awareness](https://www.aafs.org/sites/default/files/media/documents/2016_Proceedings.pdf) \\
 Carole E. Chaski, Elizabeth Allyn Smith, and Cristina Aggazzotti  \\
 _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vol. 22, p. 902 (2016).
@@ -124,3 +122,13 @@ _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vo
 [The use of causal Bayesian networks to formalize crime scripts, with an application to cash-in-transit robbery](/files/Dissertation_final.pdf) \\
 Cristina Aggazzotti \\
 _Master's dissertation_, University College London (2013).
+
+**Tree Adjoining Grammar**
+
+[Reflexives and reciprocals in synchronous tree adjoining grammar](https://aclanthology.org/W17-6204.pdf) \\
+Cristina Aggazzotti and Stuart M. Shieber \\
+_Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms_, Association for Computational Linguistics, pp. 31--42 (2017).
+
+[A unified analysis of reflexives and reciprocals in synchronous tree adjoining grammar](https://dash.harvard.edu/handle/1/42106941) \\
+Cristina Aggazzotti \\
+_Doctoral dissertation_, Harvard University (2019).
