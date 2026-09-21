@@ -31,21 +31,21 @@ Interested in a little bit of everything, I love [traveling](/files/My_Travels_1
 
 [Multimodal speaker verification as a threat to speaker anonymization](https://arxiv.org/abs/2607.19636) \\
 Ashi Garg, Cristina Aggazzotti, Leibny Paola García-Perera, and Nicholas Andrews \\
-Under review (2026).
+_Proceedings of IEEE Spoken Language Technology_ (To appear, 2026).
 
 [Content anonymization for privacy in long-form audio](https://doi.org/10.1109/ICASSP55912.2026.11461508) \\
 Cristina Aggazzotti, Ashi Garg, Zexin Cai, and Nicholas Andrews \\
-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Oral presentation. 
+_2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_. Oral presentation. 
 
 ### Authorship/Speaker Attribution and Style
 
 [STEB: Style Text Embedding Benchmark](https://doi.org/10.48550/arXiv.2606.31741) \\
 Rafael Rivera Soto, Anna Wegmann, and Cristina Aggazzotti \\
-Under review (2026).
+_Proceedings of Empirical Methods in Natural Language Processing_ (To appear, 2026).
 
 [A survey on representing linguistic style: Challenges and opportunities](/files/Style_Survey_website.pdf) \\
 Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto, and Dong Nguyen \\
-Under review (2026).
+_Proceedings of Empirical Methods in Natural Language Processing_ (To appear, 2026).
 
 [A stylometric analysis of speaker attribution from speech transcripts](https://arxiv.org/abs/2512.13667) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
@@ -83,13 +83,13 @@ _16th Biennial Conference of the International Association for Forensic and Lega
 
 [CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
 Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
-Proceedings of the Association for Computational Linguistics (2026). 
+_Proceedings of the Association for Computational Linguistics_ (2026). 
 
 ### Forensic Linguistics
 
 Ground truth in computational forensic linguistics: Semantic variation and the evaluation of scientific evidence \\
 Elizabeth Allyn Smith and Cristina Aggazzotti \\
-Submitted (2026).
+_International Journal for the Semiotics of Law_ (In press).
 
 [Weaknesses of artificial intelligence proxies of topic for forensic linguistic applications](https://www.aafs.org/sites/default/files/media/documents/2025Proceedings_2.3.25.pdf) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
