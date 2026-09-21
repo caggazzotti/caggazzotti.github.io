@@ -79,12 +79,6 @@ _4th Focus Conference on Forensic Linguistics of the International Language and 
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
 _16th Biennial Conference of the International Association for Forensic and Legal Linguistics (IAFLL)_ (2023).
 
-### Language Identification
-
-[CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
-Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
-_Proceedings of the Association for Computational Linguistics_ (2026). 
-
 ### Forensic Linguistics
 
 Ground truth in computational forensic linguistics: Semantic variation and the evaluation of scientific evidence \\
@@ -122,6 +116,12 @@ _Proceedings of the American Academy of Forensic Sciences Annual Conference_, vo
 [The use of causal Bayesian networks to formalize crime scripts, with an application to cash-in-transit robbery](/files/Dissertation_final.pdf) \\
 Cristina Aggazzotti \\
 _Master's dissertation_, University College London (2013).
+
+### Language Identification
+
+[CommonLID: Re-evaluating state-of-the-art language identification performance on web data](https://doi.org/10.48550/arXiv.2601.18026) \\
+Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, ..., Cristina Aggazzotti, ..., Kenton Murray, and Sarah Luger \\
+_Proceedings of the Association for Computational Linguistics_ (2026). 
 
 ### Tree Adjoining Grammar
 
