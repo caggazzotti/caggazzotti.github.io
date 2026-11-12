@@ -81,9 +81,9 @@ _16th Biennial Conference of the International Association for Forensic and Lega
 
 ### Forensic Linguistics
 
-Ground truth in computational forensic linguistics: Semantic variation and the evaluation of scientific evidence \\
+[Ground truth in computational forensic linguistics: Semantic variation and the evaluation of scientific evidence](https://doi.org/10.1007/s11196-026-10565-z) \\
 Elizabeth Allyn Smith and Cristina Aggazzotti \\
-_International Journal for the Semiotics of Law_ (In press).
+_International Journal for the Semiotics of Law_ (2026).
 
 [Weaknesses of artificial intelligence proxies of topic for forensic linguistic applications](https://www.aafs.org/sites/default/files/media/documents/2025Proceedings_2.3.25.pdf) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
