@@ -39,13 +39,13 @@ _2026 IEEE International Conference on Acoustics, Speech and Signal Processing (
 
 ### Authorship/Speaker Attribution and Style
 
-[STEB: Style Text Embedding Benchmark](https://doi.org/10.48550/arXiv.2606.31741) \\
+[STEB: Style Text Embedding Benchmark](https://doi.org/10.18653/2026.emnlp-main.572) \\
 Rafael Rivera Soto, Anna Wegmann, and Cristina Aggazzotti \\
-_Proceedings of Empirical Methods in Natural Language Processing_ (To appear, 2026).
+_Proceedings of Empirical Methods in Natural Language Processing_ (2026).
 
-[A survey on representing linguistic style: Challenges and opportunities](/files/Style_Survey_website.pdf) \\
+[A survey on representing linguistic style: Challenges and opportunities](https://doi.org/10.18653/2026.emnlp-main.295) \\
 Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto, and Dong Nguyen \\
-_Proceedings of Empirical Methods in Natural Language Processing_ (To appear, 2026).
+_Proceedings of Empirical Methods in Natural Language Processing_ (2026).
 
 [A stylometric analysis of speaker attribution from speech transcripts](https://arxiv.org/abs/2512.13667) \\
 Cristina Aggazzotti and Elizabeth Allyn Smith \\
